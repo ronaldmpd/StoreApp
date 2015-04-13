@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StoreApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Entrar</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="title_login">Centro Comercial</string>
+    <string name="login_ingrese_user">Ingrese Usuario</string>
+    <string name="login_ingrese_password">Contraseña</string>
+    <string name="login_title_validate_alert">Validar ingreso</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_products_by_category">ProductsByCategoryActivity</string>
+
+</resources>

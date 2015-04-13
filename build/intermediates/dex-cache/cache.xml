@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\wpAndroid\StoreApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\wpAndroid\StoreApp\app\build\intermediates\pre-dexed\debug\classes-1b3101655882d5f2b361a2e2bc641e6b837cefb2.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\wpAndroid\StoreApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-ef306c7734d71f97e9ac1bb6b850a47a923a9c54.jar" />
+    </item>
+    <item
+        jar="C:\wpAndroid\StoreApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\wpAndroid\StoreApp\app\build\intermediates\pre-dexed\debug\classes-dbe7c9995551dbc9a1b89a9ebb4973a1fd9c5152.jar" />
+    </item>
+    <item
+        jar="C:\wpAndroid\StoreApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\wpAndroid\StoreApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-425a3be8771e7e8aea8a3eefc208ecc56d3cd7aa.jar" />
+    </item>
+
+</items>
