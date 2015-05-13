@@ -7,7 +7,8 @@ public class ConstantsApp {
 
     //api url
     //public static final String URL_BASE_API = "http://testessi.myempiresecurity.com/essi/api/services/api.php";
-    public static final String URL_BASE_API = "http://192.168.0.190:8080/store_crm/api/services/api.php";
+    //public static final String URL_BASE_API = "http://192.168.0.190:8080/store_crm/api/services/api.php";
+    public static final String URL_BASE_API = "http://storeapp.mobidosoft.com/api/services/api.php";
     public static final String URL_IMAGES_PRODUCT_DEFAULT = "http://192.168.0.190:8080/store_crm/api/images/products/default.png";
 
 
